@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architectural blueprint and Step 1 specification for the Sanatan Puja Samagri Loyalty & Membership Android application, including detailed Firestore schema, zero-cost Google Sign-In auth flow, atomic points batch transactions, staff/admin role-permission matrix, security rules design, and step-by-step Firebase console instructions.",
+  "updatedAt":  "2026-10-31T08:03:03.598289546Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
